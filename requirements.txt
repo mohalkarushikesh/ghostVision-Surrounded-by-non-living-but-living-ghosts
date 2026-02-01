@@ -1,0 +1,9 @@
+ultralytics 
+opencv-python
+torch 
+transformers 
+accelerate
+SpeechRecognition 
+pyttsx3 
+pyaudio
+threading
