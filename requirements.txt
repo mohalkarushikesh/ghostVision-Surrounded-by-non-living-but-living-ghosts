@@ -7,3 +7,5 @@ SpeechRecognition
 pyttsx3 
 pyaudio
 threading
+#llama-cpp-python alternative #bitsandbytes alternative ctransformers
+
